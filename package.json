@@ -1,0 +1,26 @@
+{
+  "name": "supplements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Yasser",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^7.4.3",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "config": "^3.2.2",
+    "csv-writer": "^1.5.0",
+    "dropbox-v2-api": "^2.4.4",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.6.9",
+    "node-cron": "^2.0.3",
+    "standard": "^14.0.0"
+  }
+}
